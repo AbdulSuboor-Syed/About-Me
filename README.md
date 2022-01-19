@@ -14,7 +14,7 @@ I wish to work as a C# full stack developer after my graduation.
 
 ## Links:
 
--[GitHub-Link](https://github.com/AbdulSuboor-Syed)
+- [GitHub-Link](https://github.com/AbdulSuboor-Syed)
 - [My-GDP-Project](https://github.com/AbdulSuboor-Syed/HandIn-HandOut)
 
 
